@@ -1,0 +1,16 @@
+Uri: https://app.spline.design/_assets/_icons/icon_favicon16x16.png
+File Name: C:\Downloaded Web Sites\my.spline.design\_assets\_icons\icon_favicon16x16.png
+Content Type: image/png
+
+Uri: https://app.spline.design/_assets/_icons/icon_favicon32x32.png
+File Name: C:\Downloaded Web Sites\my.spline.design\_assets\_icons\icon_favicon32x32.png
+Content Type: image/png
+
+Uri: https://my.spline.design/polaroidgocopy-21b18aad22b7a59ba43d4d76d58d570e/
+File Name: C:\Downloaded Web Sites\my.spline.design\polaroidgocopy-21b18aad22b7a59ba43d4d76d58d570e\index.htm
+Content Type: text/html
+
+Uri: https://unpkg.com/@splinetool/runtime@1.8.1/build/runtime.js
+File Name: C:\Downloaded Web Sites\my.spline.design\@splinetool\runtime@1.8.1\build\runtime.js
+Content Type: application/javascript
+
