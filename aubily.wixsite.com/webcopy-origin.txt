@@ -1,0 +1,1160 @@
+Uri: https://aubily.wixsite.com/my-site
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/book-online
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\book-online.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/cart-page
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\cart-page.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/category/all-products
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\category\all-products.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/home
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\home.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-1
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-1.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-10
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-10.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-11
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-11.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-2.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-3
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-3.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-4
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-4.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-5
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-5.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-6
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-6.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-7
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-7.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-8
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-8.html
+Content Type: text/html
+
+Uri: https://aubily.wixsite.com/my-site/product-page/此處是產品-9
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\my-site\product-page\此處是產品-9.html
+Content Type: text/html
+
+Uri: https://polyfill-fastly.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_30a45f699e2ff62eabf0d016dbcf581f_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_400c3976d56349056fea5fae7b217b2e_9.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-12
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_a6fedd8d2cfd83e01b325c3788a2949a_10.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_a8f2068c5e80b3af425daf8eccb6219a_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_e65a86d8d1edf3839a46b44ec4fa9927_9.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_30a45f699e2ff62eabf0d016dbcf581f_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_400c3976d56349056fea5fae7b217b2e_9.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-13
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_a6fedd8d2cfd83e01b325c3788a2949a_10.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-11
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_a8f2068c5e80b3af425daf8eccb6219a_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.newVhCalc%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_e65a86d8d1edf3839a46b44ec4fa9927_9.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_400c3976d56349056fea5fae7b217b2e_9.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-14
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_5e1332526bdd55ae44703effe86c3d8a_2.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&deviceType=Desktop&dfCk=6&dfVersion=1.3621.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=6efd760a.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=b77122_a8f2068c5e80b3af425daf8eccb6219a_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&useSandboxInHTMLComp=true&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_400c3976d56349056fea5fae7b217b2e_9.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-15
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_5e1332526bdd55ae44703effe86c3d8a_2.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"333b456e-dd48-4d6b-b32b-9fd48d74e163":"736"%2C"13d21c63-b5ec-5912-8397-c3a5ddb27a97":"440"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DDMenuMigrateCssCarmiMapper%2C.DatePickerPortal%2C.FixRgbToHex%2C.MediaContainerAndPageBackgroundMapper%2C.TPA3DGalleryEEUrl%2C.TextInputAutoFillFix%2C.UseWixDataGetRequests%2C.UseWixDataItemService%2C.accordionHeightAuto%2C.allowWEBPTransformation%2C.app_reflow_with_lightboxes%2C.carouselGalleryImageFitting%2C.compCssMappers_catharsis%2C.comp_designCss_selectorToCss_Mappers_catharsis%2C.dynamicLoadTpaFeature%2C.edixIsInFirstFold%2C.facebookVideoPlayerDimensions%2C.fetchBlocksDevCenterWidgetIds%2C.fetch_widget_iteratively%2C.fiveGridLineStudioSkins%2C.fixAnchorSections%2C.fixResponsiveBoxContainerLayoutClass%2C.fixTextInputRaceCondition%2C.fixVectorImageShouldScaleStroke%2C.lazyLoadImages%2C.maxWidth%2C.mesh2%2C.mesh_css_catharsis%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.motionVeloShowHide%2C.musicPlayerWaitUntilPlayed%2C.noHeightOnTextMask%2C.noVerticalWidth%2C.one_cell_grid_display_flex%2C.proGalleryMasterInfo%2C.removeHeaderFooterWrappers%2C.root_components_carmi%2C.roundBordersInResponsiveContainer%2C.supportSpxInEEMappers%2C.updateLoginSocialBarMenuItemsSDKData%2C.useElementoryRelativePath%2C.useNewImageParallax%2C.viewerStateManager&contentType=application%2Fjson&cssPerBreakpointWidgetIds=14d2abc2-5350-6322-487d-8c16ff833c8a%2C1440e92d-47d8-69be-ade7-e6de40127106%2C405eb115-a694-4e2b-abaa-e4762808bb93%2C29ad290c-8529-4204-8fcf-41ef46e0d3b0%2Ca63a5215-8aa6-42af-96b1-583bfd74cff5%2C13afb094-84f9-739f-44fd-78d036adb028%2C139a41fd-0b1d-975f-6f67-e8cbdf8ccc82%2C1380bba0-253e-a800-a235-88821cf3f8a4%2Cbda15dc1-816d-4ff3-8dcb-1172d5343cce%2Ca91a0543-d4bd-4e6b-b315-9410aa27bcde%2C3c675d25-41c7-437e-b13d-d0f99328e347%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b%2C621bc837-5943-4c76-a7ce-a0e38185301f%2Ce86ab26e-a14f-46d1-9d74-7243b686923b%2Ccc882051-73c9-41a6-8f90-f6ebc9f10fe1%2C0eadb76d-b167-4f19-88d1-496a8207e92b%2C985e6fc8-ce3f-4cf8-9b85-714c73f48695%2C261fd12d-a3ac-4ee8-8913-09eceb8b1d3e%2C54d912c5-52cb-4657-b8fa-e1a4cda8ed01&dfCk=6&dfVersion=1.3621.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_fixAnchorUrlFragment%2Cdm_migrateResponsiveSectionStyleItemToDesign%2Cdm_onlyRerunWhenFixerRequiresReruns%2Cdm_screenInBehaviorsToEntranceEffectsFixer%2Cdm_stopMasterpageFixerLoop&externalBaseUrl=https:%2F%2Faubily.wixsite.com%2Fmy-site&fileId=9b6d6408.bundle.min&formFactor=desktop&freemiumBanner=true&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ee7bea6b-0d11-4143-9af8-0c9001e23ecc&migratingToOoiWidgetIds=14fd5970-8072-c276-1246-058b79e70c1a%2C14edb332-fdb9-2fe6-0fd1-e6293322b83b&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=b77122_a8f2068c5e80b3af425daf8eccb6219a_11.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.12259.0"}]&remoteWidgetStructureBuilderVersion=1.242.0&siteId=5d159dc8-e892-4cf9-a9b7-9142de3f2f1e&siteRevision=11&staticHTMLComponentUrl=https:%2F%2Faubily-wixsite-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://static.parastorage.com/services/bookings-service-list-widget/1.1277.0/BookOnlineViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\bookings-service-list-widget\1.1277.0\BookOnlineViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/ecom-platform-cart-icon/1.722.0/CartIconViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\ecom-platform-cart-icon\1.722.0\CartIconViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/events-viewer/1.2844.0/client-viewer/EmptyState.chunk.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\events-viewer\1.2844.0\client-viewer\EmptyState.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/santa-resources/dist/viewer/user-site-fonts/fonts/Helvetica/v3/HelveticaLTW04-Roman.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\dist\viewer\user-site-fonts\fonts\Helvetica\v3\HelveticaLTW04-Roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-700.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-700.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-700.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-700.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-700italic.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-700italic.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-700italic.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-700italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-italic.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-italic.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-italic.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-regular.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/CormorantGaramond/v1/cormorant-garamond-v7-latin-ext_latin_cyrillic-regular.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\CormorantGaramond\v1\cormorant-garamond-v7-latin-ext_latin_cyrillic-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Helvetica/v2/198fd78b-3655-4768-89c4-31caf65ea363.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Helvetica\v2\198fd78b-3655-4768-89c4-31caf65ea363.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Helvetica/v2/3a46542f-f429-4821-9a88-62e3be54a640.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Helvetica\v2\3a46542f-f429-4821-9a88-62e3be54a640.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Helvetica/v2/49631ce8-9201-47a8-8874-45371417c35f.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Helvetica\v2\49631ce8-9201-47a8-8874-45371417c35f.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Helvetica/v2/50ac1699-f3d2-47b6-878f-67a368a17c41.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Helvetica\v2\50ac1699-f3d2-47b6-878f-67a368a17c41.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Helvetica/v2/ca003289-5ee3-45c2-94ad-36c743c35fc1.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Helvetica\v2\ca003289-5ee3-45c2-94ad-36c743c35fc1.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Helvetica/v2/f20b86ad-a3dc-4459-92b7-456b456d015a.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Helvetica\v2\f20b86ad-a3dc-4459-92b7-456b456d015a.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforDisplayVF_W_Wght.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforDisplayVF_W_Wght.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforDisplay_W_Rg.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforDisplay_W_Rg.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforDisplay_W_Rg.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforDisplay_W_Rg.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforTextItalicVF_W_Wght.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforTextItalicVF_W_Wght.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforTextVF_W_Wght.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforTextVF_W_Wght.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_It.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforText_W_It.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_It.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforText_W_It.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_Rg.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforText_W_Rg.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_Rg.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\WixMadefor\v3\WixMadeforText_W_Rg.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.859.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\tag-manager-client\1.859.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/03634cf1-a9c9-4e13-b049-c90d830423d4.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\03634cf1-a9c9-4e13-b049-c90d830423d4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/07fe0fec-b63f-4963-8ee1-535528b67fdb.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\07fe0fec-b63f-4963-8ee1-535528b67fdb.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/0b3a3fca-0fad-402b-bd38-fdcbad1ef776.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\0b3a3fca-0fad-402b-bd38-fdcbad1ef776.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/1bc99c0a-298b-46f9-b325-18b5e5169795.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\1bc99c0a-298b-46f9-b325-18b5e5169795.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/1d238354-d156-4dde-89ea-4770ef04b9f9.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\1d238354-d156-4dde-89ea-4770ef04b9f9.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/278bef59-6be1-4800-b5ac-1f769ab47430.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\278bef59-6be1-4800-b5ac-1f769ab47430.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2c694ef6-9615-473e-8cf4-d8d00c6bd973.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\2c694ef6-9615-473e-8cf4-d8d00c6bd973.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\2e309b1b-08b8-477f-bc9e-7067cf0af0b3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/30b6ffc3-3b64-40dd-9ff8-a3a850daf535.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\30b6ffc3-3b64-40dd-9ff8-a3a850daf535.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/3503a1a6-91c3-4c42-8e66-2ea7b2b57541.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\3503a1a6-91c3-4c42-8e66-2ea7b2b57541.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\36c182c6-ef98-4021-9b0d-d63122c2bbf5.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/3fc84193-a13f-4fe8-87f7-238748a4ac54.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\3fc84193-a13f-4fe8-87f7-238748a4ac54.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/48d599a6-92b5-4d43-a4ac-8959f6971853.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\48d599a6-92b5-4d43-a4ac-8959f6971853.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4bd09087-655e-4abb-844c-dccdeb68003d.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4bd09087-655e-4abb-844c-dccdeb68003d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\4c6503c9-859b-4d3b-a1d5-2d42e1222415.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/50d35bbc-dfd4-48f1-af16-cf058f69421d.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\50d35bbc-dfd4-48f1-af16-cf058f69421d.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/530dee22-e3c1-4e9f-bf62-c31d510d9656.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\530dee22-e3c1-4e9f-bf62-c31d510d9656.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/55f60419-09c3-42bd-b81f-1983ff093852.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\55f60419-09c3-42bd-b81f-1983ff093852.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/56be84de-9d60-4089-8df0-0ea6ec786b84.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\56be84de-9d60-4089-8df0-0ea6ec786b84.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/58ab5075-53ea-46e6-9783-cbb335665f88.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\58ab5075-53ea-46e6-9783-cbb335665f88.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b29e833-1b7a-40ab-82a5-cfd69c8650f4.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b4a262e-3342-44e2-8ad7-719998a68134.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b4a262e-3342-44e2-8ad7-719998a68134.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b85c7cc-6ad4-4226-83f5-9d19e2974123.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\5b85c7cc-6ad4-4226-83f5-9d19e2974123.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/60be5c39-863e-40cb-9434-6ebafb62ab2b.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\60be5c39-863e-40cb-9434-6ebafb62ab2b.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/688ab72b-4deb-4e15-a088-89166978d469.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\688ab72b-4deb-4e15-a088-89166978d469.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/7092fdcc-7036-48ce-ae23-cfbc9be2e3b0.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\7092fdcc-7036-48ce-ae23-cfbc9be2e3b0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/775a65da-14aa-4634-be95-6724c05fd522.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\775a65da-14aa-4634-be95-6724c05fd522.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/7816f72f-f47e-4715-8cd7-960e3723846a.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\7816f72f-f47e-4715-8cd7-960e3723846a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/835e7b4f-b524-4374-b57b-9a8fc555fd4e.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\835e7b4f-b524-4374-b57b-9a8fc555fd4e.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/88fcd49a-13c7-4d0c-86b1-ad1e258bd75d.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\88fcd49a-13c7-4d0c-86b1-ad1e258bd75d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/8ac9e38d-29c6-41ea-8e47-4ae4d2b1a4e1.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\8ac9e38d-29c6-41ea-8e47-4ae4d2b1a4e1.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/93b6bf6a-418e-4a8f-8f79-cb9c99ef3e32.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\93b6bf6a-418e-4a8f-8f79-cb9c99ef3e32.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/988eaaa7-5565-4f65-bb17-146b650ce9e9.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\988eaaa7-5565-4f65-bb17-146b650ce9e9.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/9a2e4855-380f-477f-950e-d98e8db54eac.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\9a2e4855-380f-477f-950e-d98e8db54eac.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\ae1656aa-5f8f-4905-aed0-93e667bd6e4a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/ae1dea8c-a953-4845-b616-74a257ba72e6.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\ae1dea8c-a953-4845-b616-74a257ba72e6.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b0298148-2d59-44d1-9ec9-1ca6bb097603.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b0298148-2d59-44d1-9ec9-1ca6bb097603.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b0ffdcf0-26da-47fd-8485-20e4a40d4b7d.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b68875cb-14a9-472e-8177-0247605124d7.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b68875cb-14a9-472e-8177-0247605124d7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\b7693a83-b861-4aa6-85e0-9ecf676bc4d6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\bcf54343-d033-41ee-bbd7-2b77df3fe7ba.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/c881c21b-4148-4a11-a65d-f35e42999bc8.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\c881c21b-4148-4a11-a65d-f35e42999bc8.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/d5af76d8-a90b-4527-b3a3-182207cc3250.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\d5af76d8-a90b-4527-b3a3-182207cc3250.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\da09f1f1-062a-45af-86e1-2bbdb3dd94f9.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/df234d87-eada-4058-aa80-5871e7fbe1c3.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\df234d87-eada-4058-aa80-5871e7fbe1c3.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/f1feaed7-6bce-400a-a07e-a893ae43a680.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\f1feaed7-6bce-400a-a07e-a893ae43a680.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/fa82d0ee-4fbd-4cc9-bf9f-226ad1fcbae2.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\Helvetica\Fonts\fa82d0ee-4fbd-4cc9-bf9f-226ad1fcbae2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\03805817-4611-4dbc-8c65-0f73031c3973.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/05ad458f-263b-413f-b054-6001a987ff3e.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\05ad458f-263b-413f-b054-6001a987ff3e.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/375c70e5-6822-492b-8408-7cd350440af7.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\375c70e5-6822-492b-8408-7cd350440af7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\686a6a06-e711-4bd2-b393-8504a497bb3c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\717f8140-20c9-4892-9815-38b48f14ce2b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/92c941ea-2b06-4b72-9165-17476d424d6c.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\92c941ea-2b06-4b72-9165-17476d424d6c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9fe262dc-5a55-4d75-91a4-aed76bd32190.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\9fe262dc-5a55-4d75-91a4-aed76bd32190.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b56b944e-bbe0-4450-a241-de2125d3e682.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\b56b944e-bbe0-4450-a241-de2125d3e682.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b791c850-fde1-48b3-adf0-8998d55b0866.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\b791c850-fde1-48b3-adf0-8998d55b0866.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\bc176270-17fa-4c78-a343-9fe52824e501.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c5749443-93da-4592-b794-42f28d62ef72.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\c5749443-93da-4592-b794-42f28d62ef72.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\d513e15e-8f35-4129-ad05-481815e52625.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/f70da45a-a05c-490c-ad62-7db4894b012a.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\f70da45a-a05c-490c-ad62-7db4894b012a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\third-party\fonts\user-site-fonts\fonts\ff80873b-6ac3-44f7-b029-1b4111beac76.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.1095.0/wix-perf-measure.umd.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wix-perf-measure\1.1095.0\wix-perf-measure.umd.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.e99c0319.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wix-thunderbolt\dist\main.e99c0319.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.1d21f023.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wix-thunderbolt\dist\main.renderer.1d21f023.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.14431d95.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wix-thunderbolt\dist\thunderbolt-commons.14431d95.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wixstores-client-cart-ooi/1.3192.0/cartViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wixstores-client-cart-ooi\1.3192.0\cartViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wixstores-client-gallery/1.4379.0/CategoryPageViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wixstores-client-gallery\1.4379.0\CategoryPageViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wixstores-client-gallery/1.4379.0/GridGalleryViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wixstores-client-gallery\1.4379.0\GridGalleryViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wixstores-client-product-page/1.3046.0/ProductPageViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\services\wixstores-client-product-page\1.3046.0\ProductPageViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/cormorantgaramond/v5/iEjm9hVxcattz37Y8gZwVebEnH4R5m1MLXJyCi0BC78.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\cormorantgaramond\v5\iEjm9hVxcattz37Y8gZwVebEnH4R5m1MLXJyCi0BC78.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/cormorantgaramond/v5/iEjm9hVxcattz37Y8gZwVergGQquJ_f3dxTxEJk8ZKM.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\cormorantgaramond\v5\iEjm9hVxcattz37Y8gZwVergGQquJ_f3dxTxEJk8ZKM.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/cormorantgaramond/v5/zuqx3k1yUEl3Eavo-ZPEAhNmD6bOwmI0fiYv_Ehe03s.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\cormorantgaramond\v5\zuqx3k1yUEl3Eavo-ZPEAhNmD6bOwmI0fiYv_Ehe03s.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/cormorantgaramond/v5/zuqx3k1yUEl3Eavo-ZPEAhX141arjC0UgpdoDjjeeVk.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\cormorantgaramond\v5\zuqx3k1yUEl3Eavo-ZPEAhX141arjC0UgpdoDjjeeVk.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v5/iEjm9hVxcattz37Y8gZwVSNMxVe3WGf96EDbCaLCBKE.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v5\iEjm9hVxcattz37Y8gZwVSNMxVe3WGf96EDbCaLCBKE.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v5/iEjm9hVxcattz37Y8gZwVXP87xhFzkXvitf5EbJwljk.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v5\iEjm9hVxcattz37Y8gZwVXP87xhFzkXvitf5EbJwljk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v5/zuqx3k1yUEl3Eavo-ZPEAhjqQayVfgmnRFwqYqN-Dis.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v5\zuqx3k1yUEl3Eavo-ZPEAhjqQayVfgmnRFwqYqN-Dis.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v5/zuqx3k1yUEl3Eavo-ZPEAjp2K1CgsixPpkXulytJk5A.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v5\zuqx3k1yUEl3Eavo-ZPEAjp2K1CgsixPpkXulytJk5A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKky2F7i6C.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKky2F7i6C.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKky2F7i6C.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKky2F7i6C.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKky2F7i6C.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKky2F7i6C.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtKky2F7g.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtKky2F7g.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKky2F7i6C.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKky2F7i6C.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-EzhOp_D95AnI.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-EzhOp_D95AnI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-FzhOp_D95AnI.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-FzhOp_D95AnI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-HzhOp_D95AnI.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-HzhOp_D95AnI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhOp_D95.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhOp_D95.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-OzhOp_D95AnI.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-OzhOp_D95AnI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsA-IxBSL_g94.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsA-IxBSL_g94.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsQ-IxBSL_g94.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsQ-IxBSL_g94.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsw-IxBSL_g94.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsw-IxBSL_g94.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fug-IxBSL_g94.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fug-IxBSL_g94.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-IxBSL_g.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-IxBSL_g.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSqn7B6DxjY.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSqn7B6DxjY.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSqn7B6DxjY.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSqn7B6DxjY.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSqn7B6DxjY.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSqn7B6DxjY.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSqn7B6D.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSqn7B6D.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/cormorantgaramond/v7/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSqn7B6DxjY.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\cormorantgaramond\v7\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSqn7B6DxjY.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/11062b_00251180d3864f6c98648f8235a15ee1~mv2.jpg/v1/fit/w_480,h_640,q_90/11062b_00251180d3864f6c98648f8235a15ee1~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_00251180d3864f6c98648f8235a15ee1~mv2.jpg\v1\fit\w_480,h_640,q_90\11062b_00251180d3864f6c98648f8235a15ee1~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_06715f24049e40dfa230066b99ed11dc~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/11062b_06715f24049e40dfa230066b99ed11dc~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_06715f24049e40dfa230066b99ed11dc~mv2.jpg\v1\fill\w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\11062b_06715f24049e40dfa230066b99ed11dc~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_0996405d16314ca3ab7fa8fdd1cae7be~mv2.jpg/v1/fill/w_480,h_640,fp_0.57_0.43,q_90/11062b_0996405d16314ca3ab7fa8fdd1cae7be~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_0996405d16314ca3ab7fa8fdd1cae7be~mv2.jpg\v1\fill\w_480,h_640,fp_0.57_0.43,q_90\11062b_0996405d16314ca3ab7fa8fdd1cae7be~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_187e260cae1c453b907764503b740973f003.jpg/v1/fit/w_480,h_640,q_90/11062b_187e260cae1c453b907764503b740973f003.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_187e260cae1c453b907764503b740973f003.jpg\v1\fit\w_480,h_640,q_90\11062b_187e260cae1c453b907764503b740973f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_5f34af2079964dbb8977a00eeb7a0bd0~mv2.jpg/v1/fit/w_480,h_640,q_90/11062b_5f34af2079964dbb8977a00eeb7a0bd0~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_5f34af2079964dbb8977a00eeb7a0bd0~mv2.jpg\v1\fit\w_480,h_640,q_90\11062b_5f34af2079964dbb8977a00eeb7a0bd0~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_6fb26c1a8bdb4a119ca160cc3b1ae311~mv2.jpg/v1/fit/w_480,h_640,q_90/11062b_6fb26c1a8bdb4a119ca160cc3b1ae311~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_6fb26c1a8bdb4a119ca160cc3b1ae311~mv2.jpg\v1\fit\w_480,h_640,q_90\11062b_6fb26c1a8bdb4a119ca160cc3b1ae311~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_90b195b16d2640b2803af96101ab2b4e~mv2.jpg/v1/fit/w_480,h_640,q_90/11062b_90b195b16d2640b2803af96101ab2b4e~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_90b195b16d2640b2803af96101ab2b4e~mv2.jpg\v1\fit\w_480,h_640,q_90\11062b_90b195b16d2640b2803af96101ab2b4e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/11062b_b59be6f32731487781c7fe1dabd96993~mv2_d_4896_3264_s_4_2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/11062b_b59be6f32731487781c7fe1dabd96993~mv2_d_4896_3264_s_4_2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\11062b_b59be6f32731487781c7fe1dabd96993~mv2_d_4896_3264_s_4_2.jpg\v1\fill\w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\11062b_b59be6f32731487781c7fe1dabd96993~mv2_d_4896_3264_s_4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_0c9a5b65be4f4bfda40c4a9d62ef1923~mv2.jpg/v1/fill/w_147,h_107,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_0c9a5b65be4f4bfda40c4a9d62ef1923~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_0c9a5b65be4f4bfda40c4a9d62ef1923~mv2.jpg\v1\fill\w_147,h_107,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_0c9a5b65be4f4bfda40c4a9d62ef1923~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_0ebe9f44b7364e3c94ce74b5d750d292~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_2a8a3db4103043d49215bc47512f327a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_337e1ec18e2346b8a3dd818aebb262d4~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_3783fd5977ef435394bb6bcc4f76b5ba~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_50c46c92ba534732b5d7caf2456322a0~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_55481b0b32674e16956603da57437225~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_55481b0b32674e16956603da57437225~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_55481b0b32674e16956603da57437225~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_55481b0b32674e16956603da57437225~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_55481b0b32674e16956603da57437225~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_55481b0b32674e16956603da57437225~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_55481b0b32674e16956603da57437225~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_55481b0b32674e16956603da57437225~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_55481b0b32674e16956603da57437225~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_55481b0b32674e16956603da57437225~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_55481b0b32674e16956603da57437225~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_55481b0b32674e16956603da57437225~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_5674c9e46ac0447d9cf80242355f27ce~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_569991866a354fbf9a26f8e6f109a03a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_5c4f224461ca4ab28b388b475ade0dec~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_5f448ac883a747c8931c348cf26aea0b~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_647132de6c264107bb70f92030a99d66~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_78ec30e85a554aaf960e1f4e3223ec91~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_883791e21a324d6e89d98c44f6f4039e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_8a1964615bfe4625912db76ff1e2519c~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_919f8c4923de4755b9084019a4fda228~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_bb93083c1543446d878e9c230f5bf181~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_bc76fb4612534a25954060d7fe17a8ea~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_cfeedf8dae28472e8d4557b67ad0a2d8~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_d1d936b65a6a4ee18291e326314051ef~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_d233babbffe5482aac27893f93cedb00~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_da7bb218f354443599b168fc5b69c9db~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_e55f13cee8894cb1bc016d733b7e73cc~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_e66eca5675c0415f9fae187a590a38da~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_edef7ff7151243408efeb52d33f3868a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg\v1\fill\w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg/v1/fill/w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01/22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg\v1\fill\w_45,h_45,al_c,q_50,usm_0.66_1.00_0.01\22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg/v1/fill/w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01/22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\media\22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg\v1\fill\w_996,h_996,al_c,q_85,usm_0.66_1.00_0.01\22e53e_f00abefe16db4881885c2e0c9bae0a49~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/ufonts/1f4e5a_8631ad30ea9042b09e3563510c17dfa4/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\ufonts\1f4e5a_8631ad30ea9042b09e3563510c17dfa4\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/1f4e5a_8631ad30ea9042b09e3563510c17dfa4/woff/file.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\ufonts\1f4e5a_8631ad30ea9042b09e3563510c17dfa4\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/1f4e5a_8631ad30ea9042b09e3563510c17dfa4/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\ufonts\1f4e5a_8631ad30ea9042b09e3563510c17dfa4\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/b99f85_1868ec57ac0a436a80e5bd0515d577cb/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\ufonts\b99f85_1868ec57ac0a436a80e5bd0515d577cb\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/b99f85_1868ec57ac0a436a80e5bd0515d577cb/woff/file.woff
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\ufonts\b99f85_1868ec57ac0a436a80e5bd0515d577cb\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/b99f85_1868ec57ac0a436a80e5bd0515d577cb/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\ufonts\b99f85_1868ec57ac0a436a80e5bd0515d577cb\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.wix.com/favicon.ico
+File Name: C:\Downloaded Web Sites\aubily.wixsite.com\favicon.ico
+Content Type: image/x-icon
+

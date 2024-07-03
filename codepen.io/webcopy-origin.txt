@@ -1,0 +1,80 @@
+Uri: https://assets.codepenassets.com/fonts/telefon/black/telefon-black.woff2
+File Name: C:\Downloaded Web Sites\codepen.io\fonts\telefon\black\telefon-black.woff2
+Content Type: font/woff2
+
+Uri: https://assets.codepenassets.com/fonts/telefon/bold/telefon-bold.woff2
+File Name: C:\Downloaded Web Sites\codepen.io\fonts\telefon\bold\telefon-bold.woff2
+Content Type: font/woff2
+
+Uri: https://codepen.io/api/oembed?url=https:%2F%2Fcodepen.io%2Fashthornton%2Fpen%2FKRQbMO&format=json
+File Name: C:\Downloaded Web Sites\codepen.io\api\oembed
+Content Type: application/json
+
+Uri: https://codepen.io/ashthornton/full/KRQbMO
+File Name: C:\Downloaded Web Sites\codepen.io\ashthornton\full\KRQbMO.html
+Content Type: text/html
+
+Uri: https://cpwebassets.codepen.io/assets/common/everypage-b1fe1ca71dab80c49b8e5ebed21506a80cb6fe64ecaa8c6dddae5aca7b1e34d7.js
+File Name: C:\Downloaded Web Sites\codepen.io\assets\common\everypage-b1fe1ca71dab80c49b8e5ebed21506a80cb6fe64ecaa8c6dddae5aca7b1e34d7.js
+Content Type: application/javascript
+
+Uri: https://cpwebassets.codepen.io/assets/editor/editor-0444918a73eaf84cc10680f3b2b456e6ad183955f76f41f72c11ef1ce3f877af.css
+File Name: C:\Downloaded Web Sites\codepen.io\assets\editor\editor-0444918a73eaf84cc10680f3b2b456e6ad183955f76f41f72c11ef1ce3f877af.css
+Content Type: text/css
+
+Uri: https://cpwebassets.codepen.io/assets/editor/full/full_page_renderer-0e557a52193e870c6c772cd23c108c8eecac89b2bdd1f4fd9468517912beb9b2.js
+File Name: C:\Downloaded Web Sites\codepen.io\assets\editor\full\full_page_renderer-0e557a52193e870c6c772cd23c108c8eecac89b2bdd1f4fd9468517912beb9b2.js
+Content Type: application/javascript
+
+Uri: https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png
+File Name: C:\Downloaded Web Sites\codepen.io\assets\favicon\apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png
+Content Type: image/png
+
+Uri: https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico
+File Name: C:\Downloaded Web Sites\codepen.io\assets\favicon\favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico
+Content Type: image/x-icon
+
+Uri: https://cpwebassets.codepen.io/assets/favicon/logo-pin-b4b4269c16397ad2f0f7a01bcdf513a1994f4c94b8af2f191c09eb0d601762b1.svg
+File Name: C:\Downloaded Web Sites\codepen.io\assets\favicon\logo-pin-b4b4269c16397ad2f0f7a01bcdf513a1994f4c94b8af2f191c09eb0d601762b1.svg
+Content Type: image/svg+xml
+
+Uri: https://cpwebassets.codepen.io/assets/fullpage/fullpage-353bfa90b2f3b218d6c363d890ce4daed555cf399f11ee62709db9b87cd88dbe.css
+File Name: C:\Downloaded Web Sites\codepen.io\assets\fullpage\fullpage-353bfa90b2f3b218d6c363d890ce4daed555cf399f11ee62709db9b87cd88dbe.css
+Content Type: text/css
+
+Uri: https://cpwebassets.codepen.io/assets/global/global-3bfa19ca5d663f420e5620b3d08afa1fe785934451ed4ff0b49c12b06413cff8.css
+File Name: C:\Downloaded Web Sites\codepen.io\assets\global\global-3bfa19ca5d663f420e5620b3d08afa1fe785934451ed4ff0b49c12b06413cff8.css
+Content Type: text/css
+
+Uri: https://cpwebassets.codepen.io/assets/global/texture-codepen-2-d817063398aa9a2b534f3834f8533e2bae759c25933b86cdd149d9f0cc38563d.png
+File Name: C:\Downloaded Web Sites\codepen.io\assets\global\texture-codepen-2-d817063398aa9a2b534f3834f8533e2bae759c25933b86cdd149d9f0cc38563d.png
+Content Type: image/png
+
+Uri: https://cpwebassets.codepen.io/assets/packs/css/everypage-908bff9e.css
+File Name: C:\Downloaded Web Sites\codepen.io\assets\packs\css\everypage-908bff9e.css
+Content Type: text/css
+
+Uri: https://cpwebassets.codepen.io/assets/packs/js/1-16b750e17e466c9fdaf6.chunk.js
+File Name: C:\Downloaded Web Sites\codepen.io\assets\packs\js\1-16b750e17e466c9fdaf6.chunk.js
+Content Type: application/javascript
+
+Uri: https://cpwebassets.codepen.io/assets/packs/js/everypage-5969e3ebbc512d03cbf2.js
+File Name: C:\Downloaded Web Sites\codepen.io\assets\packs\js\everypage-5969e3ebbc512d03cbf2.js
+Content Type: application/javascript
+
+Uri: https://cpwebassets.codepen.io/assets/packs/js/referrer-tracking-ae0cc2abe792c03e5047.js
+File Name: C:\Downloaded Web Sites\codepen.io\assets\packs\js\referrer-tracking-ae0cc2abe792c03e5047.js
+Content Type: application/javascript
+
+Uri: https://cpwebassets.codepen.io/assets/packs/js/vendor-2dbc4b5ea4ee404c5ed6.chunk.js
+File Name: C:\Downloaded Web Sites\codepen.io\assets\packs\js\vendor-2dbc4b5ea4ee404c5ed6.chunk.js
+Content Type: application/javascript
+
+Uri: https://cpwebassets.codepen.io/assets/packs/SelectIcon-856e7ae59238079e755698773287d1af.svg
+File Name: C:\Downloaded Web Sites\codepen.io\assets\packs\SelectIcon-856e7ae59238079e755698773287d1af.svg
+Content Type: image/svg+xml
+
+Uri: https://cpwebassets.codepen.io/assets/page/page-fc025cd89d0d2881069b2125f65de8a4be6f5541dd02995ffae64f7f757ac28a.css
+File Name: C:\Downloaded Web Sites\codepen.io\assets\page\page-fc025cd89d0d2881069b2125f65de8a4be6f5541dd02995ffae64f7f757ac28a.css
+Content Type: text/css
+
